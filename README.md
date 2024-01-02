@@ -34,4 +34,15 @@ The Python code (`test_digi_inclinometer_mpu6050.py`) receives data from the Ard
 - MPU6050 Library for Arduino
 - pyserial
 
+## Applications
+- Navigation and Orientation
+- Robotics
+- Earthquake Monitoring
+- Construction and Surveying
+- Geophysics
+- Aerospace and Aviation
+- Marine
+- Off-Road Vehicles
+- Medical Devices
+  
 
