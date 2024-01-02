@@ -2,7 +2,7 @@
 
 <div align="center">
 <p>
-<img src="demo/Screenshot from 2024-01-02 21-58-01.png" width="600"/>  <img src="demo/Screenshot from 2024-01-02 21-58-26.png" width="600"/> 
+<img src="demo/demo.gif" width="600"/> 
 </p>
 <br>
 </div>
