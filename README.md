@@ -21,6 +21,7 @@ The project includes integration with the MPU6050 accelerometer and gyroscope se
 
 ### Arduino Code
 The Arduino code (`imu.ino`) reads data from the MPU6050 sensor and communicates the pitch and roll values to the Python script via serial communication.
+[youtube](https://www.youtube.com/watch?v=a37xWuNJsQI&ab_channel=SuperbTech)
 
 ### Python Code
 The Python code (`test_digi_inclinometer_mpu6050.py`) receives data from the Arduino, processes it, and updates the inclinometer display accordingly.
